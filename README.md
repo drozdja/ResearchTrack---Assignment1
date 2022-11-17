@@ -87,11 +87,12 @@ for m in markers:
 
 Screenshot of the finished task
 -------------------------------
+![Screenshot from 2022-11-16 23-29-20](https://user-images.githubusercontent.com/40939177/202343829-469c4265-5d49-480d-ab01-b633670ec511.png)
 
 
 Flowchart
 ---------
-
+![flowchart](https://user-images.githubusercontent.com/40939177/202343795-817ff595-d90e-4aed-a048-1b47e3225d3f.png)
 
 
 Possible improvements
